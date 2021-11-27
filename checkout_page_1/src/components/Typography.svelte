@@ -1,10 +1,11 @@
 <script>
   export let type = "normal"
   export let color = "#000"
+  export let text = ""
 </script>
 
 <span class={type} style="color: {color};">
-  <slot />
+  {text}
 </span>
 
 <style>
