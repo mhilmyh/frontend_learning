@@ -1,5 +1,7 @@
 <script>
   export let value = ""
+  export let name = ""
+  export let type = ""
 </script>
 
-<input {value} />
+<input {name} {value} {type} />
