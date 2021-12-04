@@ -76,8 +76,8 @@
 
   /* Style the indicator (dot/circle) */
   .payment-method-item .checkmark:after {
-    top: 6px;
-    left: 6px;
+    top: 4px;
+    left: 4px;
     width: 6px;
     height: 6px;
     border-radius: 50%;

@@ -9,8 +9,7 @@
 
 <div class="p-5">
   <Typography text="Payment" type="title" color="#f7f7f7" />
-  <Divider color="#f7f7f7" />
   <PaymentMethod methods={paymentMethod} />
   <PaymentCreditCard />
-  <Button text="CHECKOUT" />
+  <Button text="Checkout" />
 </div>

@@ -16,6 +16,8 @@
     padding-bottom: 0.5rem;
     background-color: #ebc934;
     font-weight: 700;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.05rem;
+    float: right;
+    display: block;
   }
 </style>

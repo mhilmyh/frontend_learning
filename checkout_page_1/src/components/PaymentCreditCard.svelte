@@ -2,12 +2,12 @@
   import Input from "./Input.svelte"
 </script>
 
-<div class="credit-card">
+<form autocomplete="off" class="credit-card">
   <Input type="text" name="credit-card-name" label="Cardholder Name" />
   <Input type="text" name="credit-card-number" label="Card Number" />
   <Input type="text" name="credit-card-exp-date" label="Expire Date" />
   <Input type="text" name="credit-card-cvv" label="CVV" />
-</div>
+</form>
 
 <style>
   .credit-card {
