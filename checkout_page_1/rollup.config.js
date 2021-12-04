@@ -34,7 +34,7 @@ export default {
   plugins: [
     svelte({
       compilerOptions: {
-        dev: !production
+        dev: !production,
       }
     }),
     css({ output: 'bundle.css' }),

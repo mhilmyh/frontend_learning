@@ -10,11 +10,14 @@
 
 <style>
   .title {
-    font-size: larger;
-    font-weight: bolder;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 3rem;
+    letter-spacing: 0.05rem;
   }
   .normal {
-    font-size: medium;
-    font-weight: normal;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.025rem;
   }
 </style>
