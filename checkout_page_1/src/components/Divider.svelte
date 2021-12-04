@@ -6,7 +6,7 @@
 
 <style>
   hr.rounded {
-    border-top: 1px solid;
+    border-top: 2px solid;
     border-radius: 2px;
   }
 </style>
